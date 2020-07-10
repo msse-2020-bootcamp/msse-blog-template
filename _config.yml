@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "The Molecular Sciences Software Institute"
 description              : ""
-url                      : "https://education.molssi.org"
+url                      : "https://msse-2020-bootcamp.github.io"
 baseurl                  : "/msse-blog-template"
 repository               : "msse-2020-bootcamp/msse-blog-template"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
