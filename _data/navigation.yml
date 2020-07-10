@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Full Poster List"
-    url: /all_posters
+  - title: "All posts"
+    url: /all_posts
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
