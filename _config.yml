@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "molssi" # "air", "aqua", "contrast", "dark", "dirt",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "2020 MolSSI Software Fellow Posters"
+title                    : "2020 MSSE Blog Template"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "The Molecular Sciences Software Institute"
 description              : ""
 url                      : "https://education.molssi.org"
-baseurl                  : "/2020-software-fellow-posters"
-repository               : "MolSSI-Education/2020-software-fellow-posters"
+baseurl                  : "/msse-blog-template"
+repository               : "msse-2020-bootcamp/msse-blog-template"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/avatars/molssi_avatar.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
